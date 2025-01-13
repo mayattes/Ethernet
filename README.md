@@ -34,4 +34,6 @@ da c2
 ##   Le checksum
 fc 9d
 ##   L'adresse IP source (en format décimal)
+fc 9d d5 e4 00 2a
 ##   L'adresse IP de destination (en format décimal)
+3e 93 51 3b

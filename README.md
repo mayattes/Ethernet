@@ -12,7 +12,7 @@
 **L'identifiant affecté au datagramme**  | da c2
 **Les flags**  | 40
 **Les offsets**  | 00
-**La valeur du champ TTL**  | 1a
+**La valeur du champ TTL**  | 3c
 **Le contenu du champ protocole. En déduire le protocole encapsulé dans le paquet IP.**  | 06==> TCP
 **Le checksum**  | fc 9d
 **L'adresse IP source (en format décimal)**  | 213.228.0.42

@@ -1,6 +1,6 @@
 # Ethernet
 
-| Questions        | Réponses         |
+|## Questions        | Réponses         |
 |:---------------|---------------:|
 **L'adresse MAC source**  | 00 1a 73 24 44 89
 **L'adresse MAC destination**  | 00 12 17 41 c2 c7 
